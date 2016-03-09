@@ -36,6 +36,7 @@ que son accesibles desde fuera del programa.
 5. A primera vista (Usando "nm") pueden verse muchos más simbolos, entre los que se encuentran los del .o. Por ejemplo, U printf, ahora contiene el @ y donde buscarla.
    El resto de los simbolos corresponden a funciones necesarias para que el programa en binario pueda ser ejecutado por el sistema operativo para que fue compilado.
 
+```
 0000000000400569 T add_numbers
 0000000000601040 B __bss_start
 0000000000601040 b completed.6973
@@ -71,3 +72,4 @@ que son accesibles desde fuera del programa.
 00000000004004a0 t register_tm_clones
 0000000000400440 T _start
 0000000000601040 D __TMC_END__
+```
