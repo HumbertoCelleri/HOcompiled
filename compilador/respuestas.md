@@ -26,7 +26,7 @@
       Linea 39 se define add_numbers: add_numbers:
 
 ## Pregunta 4
-4. Los simbolos que se crean en el objeto son funciones. Las mayusculas significan
+4. Los simbolos que se crean en el objeto son descriptores (funciones). Las mayusculas significan
 que son accesibles desde fuera del programa.
    Las u corresponden a variables no definidas.
         000000000000003c T add_numbers
